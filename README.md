@@ -1,85 +1,69 @@
-<!-- High-End GitHub Profile README for Andyish-tech -->
+# <img src="https://demolab.com!+👋;Welcome+to+my+Profile;I'm+a+Passionate+Developer" alt="Typing SVG" />
 
-<h1 align="center">Hi 👋, I'm Irene</h1>
-<h3 align="center">Full stack Developer | UI/UX </h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=535&lines=Turning+ideas+into+beautiful+products;Passionate+about+Web+and+AI;Analyst+,+Designer%2C+and+Marketing;Let%27s+Build+the+Future!" alt="Typing SVG" />
-</p>
-
----
-
-
-## 🏅 Achievements & Trophies
-
-<p align="center">
-  <a href="https://github.com/Andyish-tech">
-    <img src="https://github-profile-trophy-kappa.vercel.app/?username=Andyish-tech&theme=monokai&no-bg=true&no-frame=true&column=7&margin-w=12" width="800" alt="Trophies" />
-  </a>
-</p>
+## 👤 About Me
+A brief introduction about who you are, what you are passionate about, and what drives you. 
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- ⚡ Fun fact: ...
 
 ---
 
-## 🔥 GitHub Stats & Activity
+## 🎯 Projects & Focus Areas
+### 🚀 Featured Projects
+*   **[Project Name](https://github.com)**: A brief 1-2 sentence description of what this project does and why it matters.
+*   **[Project Name](https://github.com)**: A brief 1-2 sentence description of what this project does and why it matters.
 
-<table align="center">
-  <tr>
-    <td align="center">
-      <a href="https://github.com/Andyish-tech">
-        <img src="https://github-readme-stats-omega-red.vercel.app/api?username=Andyish-tech&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="400" alt="GitHub Stats" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/Andyish-tech">
-        <img src="https://streak-stats.demolab.com/?user=Andyish-tech&theme=tokyonight&hide_border=true" width="400" alt="Streak Stats" />
-      </a>
-    </td>
-  </tr>
-</table>
-
-<p align="center">
-  <a href="https://github.com/Andyish-tech">
-    <img src="https://github-activity-graph.vercel.app/graph?username=Andyish-tech&theme=tokyo-night&hide_border=true&width=850" alt="Activity Graph" />
-  </a>
-</p>
+### 🧠 Core Focus
+- 🏗️ Software Architecture & Clean Code
+- 🌐 Scalable Web Applications
+- 🤖 Open Source Contribution
 
 ---
 
 ## 🛠️ Tech Stack
+### Languages
+<p align="left">
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev" /></a>
+</p>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,php,mysql,figma,vscode,github,dart,typescript,express,flutter,next,mongodb" />
+### Frameworks & Tools
+<p align="left">
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev" /></a>
 </p>
 
 ---
 
-## 📦 Projects & Focus Areas
-- 📚 Webstites
-- 🧩 Fullstack Systems
-- 🎨 Beautiful Interfaces (UI/UX)
-- 🤝 Collaboration & Open Source
-
----
-
-## 🧠 About Me
-- 💡 Always exploring tech for solving real problems
-- 🎯 Big believer in creative problem-solving & innovation
-
----
-
-## 🌐 Connect with Me
+## 📈 GitHub Stats & Activity
 
 <p align="center">
-  <a href="https://www.instagram.com/andy.gada"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/></a>
-  <a href="https://rw.linkedin.com/in/ishimwe-andy-9146a2249"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
-  <a href="https://twitter.com/your_handle"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white"/></a>
-  <a href="https://yourwebsite.com"><img src="https://img.shields.io/badge/Portfolio-000?style=flat&logo=vercel&logoColor=white"/></a>
+  <img src="https://vercel.app" alt="GitHub Stats" width="48%" />
+  <img src="https://herokuapp.com" alt="GitHub Streak" width="48%" />
+</p>
+
+### 💻 Contribution Graph
+<p align="center">
+  <img src="https://addthiselement.io" alt="Contribution Activity Graph" width="100%" />
 </p>
 
 ---
 
-## 🔥 Quote I Live By
-
-> *"Dream big, think smart, build solutions."* — Andy
+## 🏆 Achievements & Trophies
+<p align="center">
+  <a href="https://github.com">
+    <img src="https://vercel.app" alt="GitHub Trophies" />
+  </a>
+</p>
 
 ---
+
+## 💬 Connect with Me
+<p align="left">
+  <a href="https://linkedin.com" target="blank"><img src="https://shields.io" alt="LinkedIn" /></a>
+  <a href="https://twitter.com" target="blank"><img src="https://shields.io" alt="Twitter" /></a>
+  <a href="mailto:your.email@example.com"><img src="https://shields.io" alt="Email" /></a>
+</p>
+
+---
+
+## 💡 Quote I Live By
+> "The only way to do great work is to love what you do." — *Steve Jobs*
