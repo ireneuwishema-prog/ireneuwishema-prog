@@ -1,5 +1,5 @@
-# <img src="https://demolab.com!+👋;Welcome+to+my+Profile;I'm+a+Passionate+Developer" alt="Typing SVG" />
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7D6A4&multiline=true&width=435&lines=Develop%2Csolve+the+problems%2CPray%2C+and+respect+one+another)](https://git.io/typing-svg)
 ## 👤 About Me
 A brief introduction about who you are, what you are passionate about, and what drives you. 
 - 🔭 I’m currently working on ...
@@ -23,12 +23,12 @@ A brief introduction about who you are, what you are passionate about, and what 
 ## 🛠️ Tech Stack
 ### Languages
 <p align="left">
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev" /></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=js,html,css,php,myspl,t)](httpslicons.dev" /></a>
 </p>
 
 ### Frameworks & Tools
 <p align="left">
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev" /></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=java,nodejs,vue,nextjs,)" /></a>
 </p>
 
 ---
@@ -41,11 +41,7 @@ A brief introduction about who you are, what you are passionate about, and what 
 </p>
 
 ### 💻 Contribution Graph
-<p align="center">
-  <img src="https://addthiselement.io" alt="Contribution Activity Graph" width="100%" />
-</p>
-
----
+[![GitHub Streak](https://streak-stats.demolab.com?user=ireneuwishema-prog&theme=dark&hide_border=true&border_radius=5.8&timezone=GMT%2B2)](https://git.io/streak-stats)-
 
 ## 🏆 Achievements & Trophies
 <p align="center">
@@ -58,7 +54,7 @@ A brief introduction about who you are, what you are passionate about, and what 
 
 ## 💬 Connect with Me
 <p align="left">
-  <a href="https://linkedin.com" target="blank"><img src="https://shields.io" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/uwishema-irene-a5983840b " target="blank"><img src="https://shields.io" alt="LinkedIn" /></a>
   <a href="https://twitter.com" target="blank"><img src="https://shields.io" alt="Twitter" /></a>
   <a href="mailto:your.email@example.com"><img src="https://shields.io" alt="Email" /></a>
 </p>
