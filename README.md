@@ -1,81 +1,152 @@
-# Hi there, I'm Irene! 👋 
-> *“To love God is the key that opens your door. Coding must be my life without any barriers that can hold me back. NEVER GIVE UP! God is perfect.”* ✨
+👋 Hello, I'm Presley MUKUNZI
+💻 Software Developer | 🎨 UI/UX Designer | 🚀 Builder | 🇷🇼 Rwanda
+Typing SVG
+Profile Views
 
----
+🌟 About Me
+╭──────────────────────────────────────────────────────────╮
+│                                                          │
+│   👨‍💻  Software Development Student                     │
+│   🇷🇼  Building from Rwanda                              │
+│   🎨  UI/UX & Creative Design                            │
+│   🌐  Web Development                                    │
+│   🧠  Constant Learner                                   │
+│   🚀  Future Tech Builder                                │
+│                                                          │
+╰──────────────────────────────────────────────────────────╯
+Hey! I'm Presley, a young Software Development student passionate about technology, creativity, and building things that solve real problems.
 
-## 🗺️ Full-Stack Development Roadmap & Architecture Flow
+I enjoy taking an idea from 💡 concept → 🎨 design → 💻 code → 🚀 working product.
 
-```mermaid
-graph TD
-    A[🌍 Frontend UI/UX] -->|Vue.js / JS / HTML / CSS| B(⚙️ Middleware & Logic)
-    B -->|Request Processing & Security| C(🗄️ Backend Server)
-    C -->|Node.js / PHP / APIs| D[📊 Database Management]
-    D -->|Data Persistence| E[🤖 AI Automation & Workflows]
-    
-    style A fill:#41B883,stroke:#35495E,stroke-width:2px,color:#fff
-    style B fill:#F0DB4F,stroke:#323330,stroke-width:2px,color:#323330
-    style C fill:#6DA55F,stroke:#fff,stroke-width:2px,color:#fff
-    style D fill:#00758F,stroke:#fff,stroke-width:1px,color:#fff
-    style E fill:#7437ff,stroke:#fff,stroke-width:2px,color:#fff
-```
+I'm especially interested in:
 
----
+🌐 Web Development
+🎨 UI/UX Design
+⚡ JavaScript & Modern Web Technologies
+🖥️ Backend Development
+🤖 APIs & AI
+🎮 Game Development
+🚀 Entrepreneurship & Innovation
+🛠️ Tech Arsenal
+💻 Languages & Web
+HTML5 CSS3 JavaScript
 
-### 🎮 Featured Project Showcase
-Here are some highlights from my **34 repositories**:
+⚡ Frameworks & Backend
+Vue.js Node.js Express.js SQLite
 
-* 🏠 **[Demu's House Management System](https://github.com)** — Full-featured real estate logic and property management platform.
-* 💼 **[Uwishema Professional Hub](https://github.com)** — Full-stack personal architectural node engine.
-* 🕹️ **[Whack-a-Mole Game](https://github.com)** — Interactive arcade game built from scratch using Vue.js reactivity.
-* 🚀 **[MyGame Engine](https://github.com)** — Custom client-side rendering browser engine setup.
+🎨 Design
+Figma Canva
 
----
+🔧 Tools
+VS Code Vite Netlify
 
-### 🛠️ Tech Stack Matrix
+🚀 What I Build
+              ┌───────────────────────┐
+              │        💡 IDEA        │
+              └───────────┬───────────┘
+                          ↓
+              ┌───────────────────────┐
+              │       🎨 DESIGN       │
+              └───────────┬───────────┘
+                          ↓
+              ┌───────────────────────┐
+              │       💻 CODE         │
+              └───────────┬───────────┘
+                          ↓
+              ┌───────────────────────┐
+              │       🧪 TEST         │
+              └───────────┬───────────┘
+                          ↓
+              ┌───────────────────────┐
+              │       🚀 SHIP         │
+              └───────────────────────┘
+📌 Featured Projects
+🏠 Real Estate Management System
+A web-based platform designed to manage real estate properties, users, and payments.
 
-<table>
-  <tr>
-    <td valign="top" width="33%">
-      <h4 align="center">💻 Frontend</h4>
-      <p align="center">
-        <code>HTML5</code> <br>
-        <code>CSS3 / Positioning</code> <br>
-        <code>JavaScript</code> <br>
-        <code>Vue.js</code>
-      </p>
-    </td>
-    <td valign="top" width="33%">
-      <h4 align="center">⚙️ Backend & Logic</h4>
-      <p align="center">
-        <code>Node.js</code> <br>
-        <code>PHP</code> <br>
-        <code>Middleware Systems</code> <br>
-        <code>REST APIs</code>
-      </p>
-    </td>
-    <td valign="top" width="33%">
-      <h4 align="center">🗄️ Infrastructure</h4>
-      <p align="center">
-        <code>Database Management</code> <br>
-        <code>AI Automation</code> <br>
-        <code>Git Versioning</code>
-      </p>
-    </td>
-  </tr>
-</table>
+Tech Stack
 
----
+Node.js Express.js SQLite JWT JavaScript
 
-### 📊 Real-time Performance Metrics
+🎮 Beneath the Surface
+A browser-based cave platformer created while exploring game development.
 
-<p align="center">
-  <img src="https://vercel.app" width="49%" alt="Stats" />
-  <img src="https://vercel.app" width="49%" alt="Languages" />
-</p>
+Tech Stack
 
----
+Phaser JavaScript HTML CSS
 
-### 📫 Connect With Me
-* 🌐 **Live Portfolio:** [ireneuwishemaprog.netlify.app](https://ireneuwishemaprog.netlify.app/)
-* 📧 **Public Email:** [ireneuwishema@gmail.com](mailto:ireneuwishema@gmail.com)
-* 🦈 **GitHub Badges:** Earned `YOLO` & `Pull Shark` architectures.
+🧩 Sliding Puzzle
+A Vue.js puzzle game inspired by the exploration of Rwandan cultural heritage.
+
+Tech Stack
+
+Vue.js JavaScript CSS
+
+🌐 Personal Portfolio
+A personal developer portfolio showcasing my skills, projects, and journey.
+
+Tech Stack
+
+HTML CSS JavaScript
+
+🧠 Currently Learning
+╔══════════════════════════════════════════════════╗
+║                                                  ║
+║  🟢 JavaScript        ███████████████░░░         ║
+║  🟢 Vue.js             ████████████░░░░░         ║
+║  🟡 Node.js            ██████████░░░░░░░         ║
+║  🟡 Backend Development ████████░░░░░░░░         ║
+║  🟡 APIs               ████████░░░░░░░░         ║
+║  🟡 UI/UX              ███████████░░░░░         ║
+║                                                  ║
+╚══════════════════════════════════════════════════╝
+🚧 Progress is a journey, not a competition.
+
+📊 GitHub Analytics
+ 
+🔥 Contribution Streak
+
+🐍 Contribution Snake
+
+💭 Developer Mindset
+const presley = {
+    name: "Presley MUKUNZI",
+    location: "Rwanda 🇷🇼",
+
+    mindset: [
+        "Learn 📚",
+        "Build 🛠️",
+        "Experiment 🧪",
+        "Fail ❌",
+        "Improve 📈",
+        "Repeat 🔁"
+    ],
+
+    mission:
+        "Use technology and creativity to build meaningful solutions."
+};
+🎯 My Vision
+💡 Learn
+🛠️ Build
+🌍 Create Impact
+🚀 Keep Going
+I believe great technology starts with curiosity, grows through learning, and becomes meaningful when it solves a real problem.
+
+🌍 Beyond Code
+Technology isn't just about writing code.
+
+I'm also interested in:
+
+🎤 Public Speaking 🗣️ Debating & Communication 🎨 Creative Design 🤝 Mentorship & Collaboration 💡 Entrepreneurship 🌍 Community & Impact
+
+🤝 Let's Connect
+  
+⭐ If you find something interesting here, feel free to explore!
+
+"Don't just dream about what you can build. Build it." 🚀
+
+
+Made with Love
+
+👀 Thanks for visiting my profile!
+Presley MUKUNZI • Software Developer • Rwanda 🇷🇼
