@@ -1,81 +1,85 @@
-# Hi there, I'm Irene! 👋 
-> *“To love God is the key that opens your door. Coding must be my life without any barriers that can hold me back. NEVER GIVE UP! God is perfect.”* ✨
+<!-- High-End GitHub Profile README for Andyish-tech -->
 
----
+<h1 align="center">Hi 👋, I'm Irene</h1>
+<h3 align="center">Full stack Developer | UI/UX </h3>
 
-## 🗺️ Engineering Architecture & Development Flow
-
-```mermaid
-graph TD
-    A[🌍 Frontend UI/UX] -->|Vue.js / JS / HTML / CSS| B(⚙️ Middleware & Logic)
-    B -->|Request Processing & Security| C(🗄️ Backend Server)
-    C -->|Node.js / PHP / APIs| D[📊 Database Management]
-    D -->|Data Persistence| E[🤖 AI Automation & Workflows]
-    
-    style A fill:#41B883,stroke:#35495E,stroke-width:2px,color:#fff
-    style B fill:#F0DB4F,stroke:#323330,stroke-width:2px,color:#323330
-    style C fill:#6DA55F,stroke:#fff,stroke-width:2px,color:#fff
-    style D fill:#00758F,stroke:#fff,stroke-width:1px,color:#fff
-    style E fill:#7437ff,stroke:#fff,stroke-width:2px,color:#fff
-```
-
----
-
-### 🎮 Featured Project Production
-Here are the flagship builds chosen from my **34 repositories**:
-
-* 🏠 **[Demu's House Management System](https://github.com)** — Full-featured real estate logic and property management platform.
-* 💼 **[Uwishema Professional Hub](https://github.com)** — Full-stack personal architectural node engine.
-* 🕹️ **[Whack-a-Mole Game](https://github.com)** — Interactive arcade game built from scratch using Vue.js reactivity.
-* 🚀 **[MyGame Engine](https://github.com)** — Custom client-side rendering browser engine setup.
-
----
-
-### 🛠️ Professional Tech Matrix
-
-<table>
-  <tr>
-    <td valign="top" width="33%">
-      <h4 align="center">💻 Frontend Engineering</h4>
-      <p align="center">
-        <code>HTML5 Matrix</code> <br>
-        <code>CSS3 / Positioning</code> <br>
-        <code>JavaScript ES6+</code> <br>
-        <code>Vue.js Framework</code>
-      </p>
-    </td>
-    <td valign="top" width="33%">
-      <h4 align="center">⚙️ Backend Architecture</h4>
-      <p align="center">
-        <code>Node.js Runtime</code> <br>
-        <code>PHP Engine</code> <br>
-        <code>Middleware Processing</code> <br>
-        <code>REST API Systems</code>
-      </p>
-    </td>
-    <td valign="top" width="33%">
-      <h4 align="center">🗄️ Infrastructure & Data</h4>
-      <p align="center">
-        <code>Database Management</code> <br>
-        <code>AI Automation Workflow</code> <br>
-        <code>Git Version Security</code>
-      </p>
-    </td>
-  </tr>
-</table>
-
----
-
-### 📊 Real-time Development Performance
-
-<p align="left">
-  <img src="https://vercel.app" width="48%" alt="Stats Dashboard" />
-  <img src="https://vercel.app" width="48%" alt="Language Breakdown" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=535&lines=Turning+ideas+into+beautiful+products;Passionate+about+Web+and+AI;Analyst+,+Designer%2C+and+Marketing;Let%27s+Build+the+Future!" alt="Typing SVG" />
 </p>
 
 ---
 
-### 📫 Secure Communication Channels
-* 🌐 **Production Portfolio:** [ireneuwishemaprog.netlify.app](https://netlify.app)
-* 💼 **LinkedIn Profile:** [Irene Uwishema](https://linkedin.com)
-* 📧 **Direct Email:** [ireneuwishema@gmail.com](mailto:ireneuwishema@gmail.com)
+
+## 🏅 Achievements & Trophies
+
+<p align="center">
+  <a href="https://github.com/Andyish-tech">
+    <img src="https://github-profile-trophy-kappa.vercel.app/?username=Andyish-tech&theme=monokai&no-bg=true&no-frame=true&column=7&margin-w=12" width="800" alt="Trophies" />
+  </a>
+</p>
+
+---
+
+## 🔥 GitHub Stats & Activity
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://github.com/Andyish-tech">
+        <img src="https://github-readme-stats-omega-red.vercel.app/api?username=Andyish-tech&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="400" alt="GitHub Stats" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Andyish-tech">
+        <img src="https://streak-stats.demolab.com/?user=Andyish-tech&theme=tokyonight&hide_border=true" width="400" alt="Streak Stats" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <a href="https://github.com/Andyish-tech">
+    <img src="https://github-activity-graph.vercel.app/graph?username=Andyish-tech&theme=tokyo-night&hide_border=true&width=850" alt="Activity Graph" />
+  </a>
+</p>
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,php,mysql,figma,vscode,github,dart,typescript,express,flutter,next,mongodb" />
+</p>
+
+---
+
+## 📦 Projects & Focus Areas
+- 📚 Webstites
+- 🧩 Fullstack Systems
+- 🎨 Beautiful Interfaces (UI/UX)
+- 🤝 Collaboration & Open Source
+
+---
+
+## 🧠 About Me
+- 💡 Always exploring tech for solving real problems
+- 🎯 Big believer in creative problem-solving & innovation
+
+---
+
+## 🌐 Connect with Me
+
+<p align="center">
+  <a href="https://www.instagram.com/andy.gada"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/></a>
+  <a href="https://rw.linkedin.com/in/ishimwe-andy-9146a2249"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
+  <a href="https://twitter.com/your_handle"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white"/></a>
+  <a href="https://yourwebsite.com"><img src="https://img.shields.io/badge/Portfolio-000?style=flat&logo=vercel&logoColor=white"/></a>
+</p>
+
+---
+
+## 🔥 Quote I Live By
+
+> *"Dream big, think smart, build solutions."* — Andy
+
+---
