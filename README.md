@@ -1,47 +1,48 @@
-## Hi there 👋
-
-<!--
-**ireneuwishema-prog/ireneuwishema-prog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 # Hi there, I'm Irene! 👋
 
-<!-- Introduction -->
-I am a passionate software developer focused on building clean, efficient, and impactful digital solutions. I love tackling complex problems and turning them into user-friendly applications.
+<!-- The Animation Snake Flowchart consumes your contribution graph live! -->
+## 🐍 My Contribution Flow
+![Github Snake Animation](https://vercel.app)
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### 🚀 Quick Stats & Milestones
+* 📂 **34 Repositories** created and managed
+* 🎮 **3 Completed Game Projects** built from scratch
+* 🌍 Active open-source contributor and full-stack architecture enthusiast
 
-<!-- Frameworks & Programming Languages -->
-![JavaScript](https://shields.io)
-![Python](https://shields.io)
+---
+
+### 🛠️ Tech Stack & Architecture Skills
+Here are the core languages, frameworks, and system architectures I work with:
+
+#### 💻 Frontend
 ![HTML5](https://shields.io)
 ![CSS3](https://shields.io)
-![Git](https://shields.io)
+![JavaScript](https://shields.io)
+![Vue.js](https://shields.io)
+
+#### ⚙️ Backend & Logic
+![NodeJS](https://shields.io)
+![PHP](https://shields.io)
+![Middleware](https://shields.io)
+
+#### 🗄️ Infrastructure & Integrations
+![Database Management](https://shields.io)
+![API Integration](https://shields.io)
+![AI Automation](https://shields.io)
 
 ---
 
-### 📊 GitHub Stats
-
-<!-- Dynamic GitHub Stats Card -->
-![Irene's GitHub stats](https://vercel.app)
+### 📊 Real-time Development Performance
+<!-- Dynamic GitHub Stats Dashboard -->
+<p align="left">
+  <img src="https://vercel.app" alt="Irene's GitHub Stats" width="48%" />
+  <img src="https://vercel.app" alt="Top Languages" width="48%" />
+</p>
 
 ---
 
 ### 📫 Let's Connect!
-* 📧 Reach out via Email: [ireneuwishema@gmail.com](mailto:ireneuwishema@gmail.com)
-* 💼 Connect with me on [LinkedIn](https://linkedin.com) <!-- You can change this link to your actual LinkedIn URL later -->
-
----
-*“Code is like humor. When you have to explain it, it’s bad.”*
+* 📧 Email me directly at: [ireneuwishema@gmail.com](mailto:ireneuwishema@gmail.com)
+* 🤝 Let's collaborate on Game Dev or Web Automation builds!
