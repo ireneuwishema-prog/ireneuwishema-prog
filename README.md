@@ -5,7 +5,11 @@
 <p align="center">
   <img src="./asset/premium_photo-1661877737564-3dfd7282efcb.avif" width="100%" alt="Irene Uwishema - Frontend Developer"/>
 </p>
-
+<p align="center">
+  <img src="./asset/premium_photo-1661877737564-3dfd7282efcb.avif"
+       width="100%"
+       alt="Irene Uwishema - Frontend Developer"/>
+</p>
 <p align="center">
   <a href="https://readme-typing-svg.demolab.com">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Frontend+Developer;Building+Modern+Web+Experiences;Turning+Ideas+Into+Reality;Develop.+Solve+Problems.+Keep+Learning." alt="Typing introduction"/>
