@@ -3,7 +3,7 @@
 <!-- ===================================================== -->
 
 <p align="center">
-  <img src="github-banner.png" width="100%" alt="Irene Uwishema - Frontend Developer"/>
+  <img src="./asset/premium_photo-1661877737564-3dfd7282efcb.avif" width="100%" alt="Irene Uwishema - Frontend Developer"/>
 </p>
 
 <p align="center">
