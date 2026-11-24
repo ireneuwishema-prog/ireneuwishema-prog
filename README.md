@@ -3,7 +3,7 @@
 <!-- ===================================================== -->
 
 <p align="center">
-  <img src="./asset/premium_photo-1661877737564-3dfd7282efcb.avif" width="10%" alt="Irene Uwishema - Frontend Developer"/>
+  <img src="./asset/premium_photo-1661877737564-3dfd7282efcb.avif" width="60%" alt="Irene Uwishema - Frontend Developer"/>
 </p>
 <p align="center">
   <a href="https://readme-typing-svg.demolab.com">
